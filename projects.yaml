@@ -139,6 +139,12 @@ projects:
     category: dataview
     image: https://opengraph.githubassets.com/1/Aetherinox/obsidian-dataview-snippets
 
+  - name: Total continuing education hours in Obsidian with Dataview
+    homepage: https://hexloomlabs.com/obsidian-ce/dataview-ce-hours/
+    description: "A walkthrough of totalling continuing-education hours by category from note frontmatter with a Dataview table, and of the formatting mistakes, such as text dates and decimal commas, that throw the totals off."
+    category: dataview
+    resource: true
+
   # ---------------------------------------------------------------------
   # 🏠 Vaults
   # ---------------------------------------------------------------------
